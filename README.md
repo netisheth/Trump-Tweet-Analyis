@@ -1,4 +1,4 @@
-# Trump-Tweet-Analyis
+# Trump-Tweet-Analysis
 
 Analyzed Donald Trump's tweets from Jan 2015 (two years before he became president) until current. These tweets are available from http://www.trumptwitterarchive.com/. 
 
